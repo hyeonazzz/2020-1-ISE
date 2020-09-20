@@ -17,7 +17,7 @@ $(document).ready(function() {
     var myChart = new Chart(ctx, {
         type: 'bar',
         data: {
-            labels: ['Visitors', 'Visitors', 'Visitors', 'Visitors', 'Visitors', 'Visitors', 'Visitors', 'Visitors', 'Visitors', 'Visitors', 'Visitors'],
+            labels: ['9/9', '9/10', '9/11', '9/12', '9/13', '9/14', '9/15', '9/16', '9/17', '9/18', '9/19'],
             datasets: [{
                 
                 label: 'Total',
